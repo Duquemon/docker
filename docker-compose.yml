@@ -10,4 +10,3 @@ services:
     extends:
       file: common.yml
       service: redis
-
